@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1628435184 source:/home/eyalyehieli/Desktop/EyalCProgram/chatTCPThread/chatTCPThreadClient/chat.c
+	"chat.h"
+	<pthread.h>
+
+1628425642 /home/eyalyehieli/Desktop/EyalCProgram/chatTCPThread/chatTCPThreadClient/chat.h
+	<netinet/in.h>
+	<errno.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<signal.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<pthread.h>
+	<stdbool.h>
+
+1628499859 source:/home/eyalyehieli/Desktop/EyalCProgram/chatTCPThread/chatTCPThreadClient/main.c
+	"chat.h"
+	<pthread.h>
+	"myClient.h"
+
+1628499934 /home/eyalyehieli/Desktop/EyalCProgram/chatTCPThread/chatTCPThreadClient/myClient.h
+	"chat.h"
+	<pthread.h>
+
+1628500047 source:/home/eyalyehieli/Desktop/EyalCProgram/chatTCPThread/chatTCPThreadClient/myClient.c
+	"myClient.h"
+
